@@ -1,4 +1,4 @@
-name: Build Pritunl Image
+name: Build Shinobi Image
 
 on:
   # Build whenever the Dockerfile changes on main
